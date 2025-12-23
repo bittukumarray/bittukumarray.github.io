@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f8acf09-3b33-4baf-9fa0-9d570ea68dc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/themes/PaperMod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/material-portfolio-screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/site-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/site-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/license-free.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="37G0jA72oNjGr9m7pW4DbZj0UrQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/bitturay/bittukumarray.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f8acf09-3b33-4baf-9fa0-9d570ea68dc1" name="Changes" comment="" />
+      <created>1766514233578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766514233578</updated>
+      <workItem from="1766514235316" duration="1684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
