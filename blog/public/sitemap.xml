@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>https://bittukumarray.github.io/</loc>
     <lastmod>2025-12-24T00:11:13+05:30</lastmod>
   </url><url>
@@ -48,52 +47,5 @@
     <loc>https://bittukumarray.github.io/categories/</loc>
   </url><url>
     <loc>https://bittukumarray.github.io/tags/</loc>
-=======
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-24T00:11:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/system-design/handle-high-writes/</loc>
-    <lastmod>2025-12-24T00:11:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/system-design/</loc>
-    <lastmod>2025-12-24T00:11:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/system-design/handle-high-reads/</loc>
-    <lastmod>2025-12-24T00:11:09+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/system-design/handle-high-congestion/</loc>
-    <lastmod>2025-12-24T00:11:00+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/gita-verse/</loc>
-    <lastmod>2025-12-24T00:10:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2025-12-24T00:10:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/aws-nat/</loc>
-    <lastmod>2025-12-24T00:08:16+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-24T00:08:16+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/databases/</loc>
-    <lastmod>2025-12-24T00:06:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/databases/postgres-internals/</loc>
-    <lastmod>2025-12-24T00:06:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/databases/postgres-gin/</loc>
-    <lastmod>2025-12-24T00:06:38+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/databases/postgres-indexes/</loc>
-    <lastmod>2025-12-24T00:06:20+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/kafka-internals/</loc>
-    <lastmod>2025-12-23T23:56:54+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
->>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
   </url>
 </urlset>
