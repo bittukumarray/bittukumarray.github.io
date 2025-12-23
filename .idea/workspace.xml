@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f8acf09-3b33-4baf-9fa0-9d570ea68dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/themes/PaperMod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/project/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/databases/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/databases/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/notes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/notes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/system-design/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/system-design/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/tags/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -32,7 +39,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;add-hugo&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bitturay/bittukumarray.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bitturay/bittukumarray.github.io/assets/images&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -42,8 +49,14 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/blog/static" />
+      <recent name="$PROJECT_DIR$/blog/assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -61,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766514233578</updated>
-      <workItem from="1766514235316" duration="2313000" />
+      <workItem from="1766514235316" duration="4483000" />
     </task>
     <servers />
   </component>

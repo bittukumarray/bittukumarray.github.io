@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>System Design on Bittu Kumar Ray</title>
-    <link>https://bittukumarray.github.io/system-design/</link>
-    <description>Recent content in System Design on Bittu Kumar Ray</description>
-    <generator>Hugo -- 0.153.2</generator>
+    <title>System Design on </title>
+    <link>//localhost:1313/system-design/</link>
+    <description>Recent content in System Design on </description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 00:11:13 +0530</lastBuildDate>
-    <atom:link href="https://bittukumarray.github.io/system-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/system-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handle High Writes</title>
-      <link>https://bittukumarray.github.io/system-design/handle-high-writes/</link>
+      <link>//localhost:1313/system-design/handle-high-writes/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:13 +0530</pubDate>
-      <guid>https://bittukumarray.github.io/system-design/handle-high-writes/</guid>
+      <guid>//localhost:1313/system-design/handle-high-writes/</guid>
       <description></description>
     </item>
     <item>
       <title>Handle High Reads</title>
-      <link>https://bittukumarray.github.io/system-design/handle-high-reads/</link>
+      <link>//localhost:1313/system-design/handle-high-reads/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:09 +0530</pubDate>
-      <guid>https://bittukumarray.github.io/system-design/handle-high-reads/</guid>
+      <guid>//localhost:1313/system-design/handle-high-reads/</guid>
       <description></description>
     </item>
     <item>
       <title>Handle High Congestion</title>
-      <link>https://bittukumarray.github.io/system-design/handle-high-congestion/</link>
+      <link>//localhost:1313/system-design/handle-high-congestion/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:00 +0530</pubDate>
-      <guid>https://bittukumarray.github.io/system-design/handle-high-congestion/</guid>
+      <guid>//localhost:1313/system-design/handle-high-congestion/</guid>
       <description></description>
     </item>
   </channel>
