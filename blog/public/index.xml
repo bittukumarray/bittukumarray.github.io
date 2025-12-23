@@ -2,73 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bittu Kumar Ray</title>
+<<<<<<< HEAD
+    <link>https://bittukumarray.github.io/</link>
+=======
     <link>http://localhost:1313/</link>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
     <description>Recent content on Bittu Kumar Ray</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Dec 2025 00:11:13 +0530</lastBuildDate>
+<<<<<<< HEAD
+    <atom:link href="https://bittukumarray.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handle High Writes</title>
+      <link>https://bittukumarray.github.io/system-design/handle-high-writes/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:13 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/system-design/handle-high-writes/</guid>
+=======
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handle High Writes</title>
       <link>http://localhost:1313/system-design/handle-high-writes/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:13 +0530</pubDate>
       <guid>http://localhost:1313/system-design/handle-high-writes/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Handle High Reads</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/system-design/handle-high-reads/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:09 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/system-design/handle-high-reads/</guid>
+=======
       <link>http://localhost:1313/system-design/handle-high-reads/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:09 +0530</pubDate>
       <guid>http://localhost:1313/system-design/handle-high-reads/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Handle High Congestion</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/system-design/handle-high-congestion/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:00 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/system-design/handle-high-congestion/</guid>
+=======
       <link>http://localhost:1313/system-design/handle-high-congestion/</link>
       <pubDate>Wed, 24 Dec 2025 00:11:00 +0530</pubDate>
       <guid>http://localhost:1313/system-design/handle-high-congestion/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Gita Verse</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/notes/gita-verse/</link>
+      <pubDate>Wed, 24 Dec 2025 00:10:33 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/notes/gita-verse/</guid>
+=======
       <link>http://localhost:1313/notes/gita-verse/</link>
       <pubDate>Wed, 24 Dec 2025 00:10:33 +0530</pubDate>
       <guid>http://localhost:1313/notes/gita-verse/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Aws Nat</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/posts/aws-nat/</link>
+      <pubDate>Wed, 24 Dec 2025 00:08:16 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/posts/aws-nat/</guid>
+=======
       <link>http://localhost:1313/posts/aws-nat/</link>
       <pubDate>Wed, 24 Dec 2025 00:08:16 +0530</pubDate>
       <guid>http://localhost:1313/posts/aws-nat/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Postgres Internals</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/databases/postgres-internals/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:48 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-internals/</guid>
+=======
       <link>http://localhost:1313/databases/postgres-internals/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:48 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-internals/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Postgres Gin</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/databases/postgres-gin/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:38 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-gin/</guid>
+=======
       <link>http://localhost:1313/databases/postgres-gin/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:38 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-gin/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Postgres Indexes</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/databases/postgres-indexes/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:20 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-indexes/</guid>
+=======
       <link>http://localhost:1313/databases/postgres-indexes/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:20 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-indexes/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Kafka Internals</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/posts/kafka-internals/</link>
+      <pubDate>Tue, 23 Dec 2025 23:56:54 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/posts/kafka-internals/</guid>
+=======
       <link>http://localhost:1313/posts/kafka-internals/</link>
       <pubDate>Tue, 23 Dec 2025 23:56:54 +0530</pubDate>
       <guid>http://localhost:1313/posts/kafka-internals/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
   </channel>

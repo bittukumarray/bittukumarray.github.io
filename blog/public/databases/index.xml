@@ -2,31 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Databases on Bittu Kumar Ray</title>
+<<<<<<< HEAD
+    <link>https://bittukumarray.github.io/databases/</link>
+=======
     <link>http://localhost:1313/databases/</link>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
     <description>Recent content in Databases on Bittu Kumar Ray</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Dec 2025 00:06:48 +0530</lastBuildDate>
+<<<<<<< HEAD
+    <atom:link href="https://bittukumarray.github.io/databases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postgres Internals</title>
+      <link>https://bittukumarray.github.io/databases/postgres-internals/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:48 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-internals/</guid>
+=======
     <atom:link href="http://localhost:1313/databases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postgres Internals</title>
       <link>http://localhost:1313/databases/postgres-internals/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:48 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-internals/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Postgres Gin</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/databases/postgres-gin/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:38 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-gin/</guid>
+=======
       <link>http://localhost:1313/databases/postgres-gin/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:38 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-gin/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
     <item>
       <title>Postgres Indexes</title>
+<<<<<<< HEAD
+      <link>https://bittukumarray.github.io/databases/postgres-indexes/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:20 +0530</pubDate>
+      <guid>https://bittukumarray.github.io/databases/postgres-indexes/</guid>
+=======
       <link>http://localhost:1313/databases/postgres-indexes/</link>
       <pubDate>Wed, 24 Dec 2025 00:06:20 +0530</pubDate>
       <guid>http://localhost:1313/databases/postgres-indexes/</guid>
+>>>>>>> bcaf75a6b56030942681e9e8109a394ddd92138a
       <description></description>
     </item>
   </channel>
