@@ -1,0 +1,33 @@
+[params]
+  ShowPageBreadcrumbs = true
+  profileMode = true
+  profileSidebar = true
+  ShowBreadCrumbs = true
+  description = "Engineering, Distributed Systems, Databases, Kafka"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  mainSections = ["posts", "notes", "system-design", "databases"]
+
+[params.sidebarProfile]
+  imageUrl = "/images/profile.jpeg"
+  imageWidth = 120
+  imageHeight = 120
+  title = "Bittu Kumar Ray"
+  subtitle = "Software Engineer | Distributed Systems | Databases | Kafka"
+
+  [[params.sidebarProfile.links]]
+    name = "Blogs"
+    url = "/posts/"
+
+  [[params.sidebarProfile.links]]
+    name = "Notes"
+    url = "/notes/"
+
+  [[params.sidebarProfile.links]]
+    name = "System Design"
+    url = "/system-design/"
+
+  [[params.sidebarProfile.links]]
+    name = "Databases"
+    url = "/databases/"

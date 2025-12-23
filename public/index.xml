@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Dec 2025 00:11:13 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handle High Writes</title>
+      <link>//localhost:1313/system-design/handle-high-writes/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:13 +0530</pubDate>
+      <guid>//localhost:1313/system-design/handle-high-writes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Handle High Reads</title>
+      <link>//localhost:1313/system-design/handle-high-reads/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:09 +0530</pubDate>
+      <guid>//localhost:1313/system-design/handle-high-reads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Handle High Congestion</title>
+      <link>//localhost:1313/system-design/handle-high-congestion/</link>
+      <pubDate>Wed, 24 Dec 2025 00:11:00 +0530</pubDate>
+      <guid>//localhost:1313/system-design/handle-high-congestion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gita Verse</title>
+      <link>//localhost:1313/notes/gita-verse/</link>
+      <pubDate>Wed, 24 Dec 2025 00:10:33 +0530</pubDate>
+      <guid>//localhost:1313/notes/gita-verse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws Nat</title>
+      <link>//localhost:1313/posts/aws-nat/</link>
+      <pubDate>Wed, 24 Dec 2025 00:08:16 +0530</pubDate>
+      <guid>//localhost:1313/posts/aws-nat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgres Internals</title>
+      <link>//localhost:1313/databases/postgres-internals/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:48 +0530</pubDate>
+      <guid>//localhost:1313/databases/postgres-internals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgres Gin</title>
+      <link>//localhost:1313/databases/postgres-gin/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:38 +0530</pubDate>
+      <guid>//localhost:1313/databases/postgres-gin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgres Indexes</title>
+      <link>//localhost:1313/databases/postgres-indexes/</link>
+      <pubDate>Wed, 24 Dec 2025 00:06:20 +0530</pubDate>
+      <guid>//localhost:1313/databases/postgres-indexes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kafka Internals</title>
+      <link>//localhost:1313/posts/kafka-internals/</link>
+      <pubDate>Tue, 23 Dec 2025 23:56:54 +0530</pubDate>
+      <guid>//localhost:1313/posts/kafka-internals/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

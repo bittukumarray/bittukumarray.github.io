@@ -8,6 +8,37 @@
       <change afterPath="$PROJECT_DIR$/blog/.gitmodules" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/themes/PaperMod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/postgres-gin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/postgres-indexes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/postgres-internals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/gita-verse/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/aws-nat/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/kafka-internals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/handle-high-congestion/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/handle-high-reads/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/handle-high-writes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system-design/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +63,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;add-hugo&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bitturay/bittukumarray.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bitturay/bittukumarray.github.io/assets/images&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -42,7 +73,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/static" />
+      <recent name="$PROJECT_DIR$/blog/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -61,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766514233578</updated>
-      <workItem from="1766514235316" duration="2313000" />
+      <workItem from="1766514235316" duration="3921000" />
     </task>
     <servers />
   </component>
