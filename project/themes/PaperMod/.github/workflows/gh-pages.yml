@@ -5,7 +5,7 @@ on:
     paths-ignore:
       - "images/**"
       - "LICENSE"
-      - "README.md"
+      - "../../../../README.md"
     branches:
       - master
       - exampleSite
